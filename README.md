@@ -9,7 +9,6 @@ git clone https://github.com/Manu-sh/NeonVimColorscheme
 cd NeonVimColorscheme
 
 # now copy the colorscheme in your vim own runtime directory usually (~/.vim)
-
 VIMRUNTIME=$HOME/.vim
 
 # create the colors directory if doesn't exist
