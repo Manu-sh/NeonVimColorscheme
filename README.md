@@ -25,5 +25,5 @@ colorscheme neon
 
 or open vim and type
 ```vim
-colorscheme neon
+:colorscheme neon
 ```
