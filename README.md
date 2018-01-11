@@ -1,7 +1,7 @@
 # NeonVimColorscheme
 
 Require [vim-syntax-extra](https://github.com/justinmk/vim-syntax-extra)
-![screenshot](https://anonimag.es/i/vimcscheme_xorg82d65.png)
+![screenshot](screenshots/vimcscheme_xorg.png)
 
 #### Installation
 ```bash
